@@ -72,24 +72,63 @@ The main goal of this repository is to build a strong foundation in Python for *
 ### 📋 Lists
 
 * List Basics
+* List Indexing
+* List Slicing
 * List Methods
-* Traversing
-* Reverse List
-* Sorting
-* Searching
+* Nested Lists
+* List Traversal
+* List Comprehension
+* List Programs
+* Practice Programs
+
+### 📖 Dictionaries
+
+* Dictionary Basics
+* Accessing Dictionary Items
+* Dictionary Methods
+* Nested Dictionaries
+* Dictionary Traversal
+* Dictionary Comprehension
+* Dictionary Programs
 * Practice Programs
 
 ### 📦 Tuples
 
+* Tuple Basics
+* Tuple Indexing
+* Tuple Slicing
+* Tuple Methods
+* Nested Tuples
+* Tuple Traversal
+* Tuple Unpacking
+* Tuple Programs
+* Practice Programs
+
 ### 🎯 Sets
 
-### 📖 Dictionaries
+* Set Basics
+* Set Methods
+* Set Operations
+* Set Traversal
+* Frozen Sets
+* Set Comprehension
+* Set Programs
+* Practice Programs
 
 ### ⚙️ Functions
 
 ### 🔁 Recursion
 
 ### 📁 File Handling
+
+* File Handling Basics
+* Reading Files
+* Writing Files
+* Appending Files
+* File Modes
+* `with open()` Statement
+* File Handling Programs
+* Practice Programs
 
 ### ⚠️ Exception Handling
 
@@ -111,17 +150,16 @@ python-practice/
 ├── 03_conditionals/
 ├── 04_loops/
 ├── 05_strings/
-├── 06_numbers/
-├── 07_functions/
-├── 08_lists/
+├── 06_functions/
+├── 07_lists/
+├── 08_dictionaries/
 ├── 09_tuples/
 ├── 10_sets/
-├── 11_dictionaries/
-├── 12_file_handling/
-├── 13_exception_handling/
-├── 14_oop/
-├── 15_modules_packages/
-└── 16_mini_projects/
+├── 11_file_handling/
+├── 12_exception_handling/
+├── 13_oop/
+├── 14_modules_packages/
+└── 15_mini_projects/
 ```
 
 ---
@@ -145,6 +183,19 @@ python-practice/
 * GitHub
 
 ---
+
+## 📊 Current Progress
+
+```text
+Python Fundamentals      ✅
+Strings                  ✅
+Functions                ✅
+Lists                    ✅
+Dictionaries             ✅
+Tuples                   ✅
+Sets                     ✅
+File Handling            🚧 In Progress
+```
 
 ## 📈 Repository Status
 
